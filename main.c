@@ -1,6 +1,6 @@
 #include "ACMSim.h"
 
-
+//test
 #if MACHINE_TYPE == INDUCTION_MACHINE
 struct InductionMachineSimulated ACM;
 void Machine_init(){
